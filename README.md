@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
