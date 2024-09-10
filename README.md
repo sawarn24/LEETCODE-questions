@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
