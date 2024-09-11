@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
