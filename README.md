@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sawarn24/LEETCODE-questions/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
