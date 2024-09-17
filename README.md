@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
