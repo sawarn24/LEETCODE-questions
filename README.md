@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarn24/LEETCODE-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
 ## Bit Manipulation
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 ## Counting
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0328-odd-even-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
