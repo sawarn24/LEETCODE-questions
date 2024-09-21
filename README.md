@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/0551-student-attendance-record-i) |
 ## Bit Manipulation
 |  |
 | ------- |
