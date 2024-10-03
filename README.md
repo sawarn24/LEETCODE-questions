@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/sawarn24/LEETCODE-questions/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/sawarn24/LEETCODE-questions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
