@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
