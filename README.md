@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarn24/LEETCODE-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sawarn24/LEETCODE-questions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
