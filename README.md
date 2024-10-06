@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/sawarn24/LEETCODE-questions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/sawarn24/LEETCODE-questions/tree/master/1791-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sawarn24/LEETCODE-questions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
