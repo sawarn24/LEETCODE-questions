@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/0551-student-attendance-record-i) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0234-palindrome-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bucket Sort
 |  |
 | ------- |
