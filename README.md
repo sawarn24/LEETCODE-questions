@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/sawarn24/LEETCODE-questions/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
+| [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/sawarn24/LEETCODE-questions/tree/master/1806-count-of-matches-in-tournament) |
+| [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sawarn24/LEETCODE-questions/tree/master/0319-bulb-switcher) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
