@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/0551-student-attendance-record-i) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1829-maximum-units-on-a-truck](https://github.com/sawarn24/LEETCODE-questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Stack
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bucket Sort
 |  |
