@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/sawarn24/LEETCODE-questions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
