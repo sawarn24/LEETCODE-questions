@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/sawarn24/LEETCODE-questions/tree/master/1829-maximum-units-on-a-truck) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
