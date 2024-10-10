@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/sawarn24/LEETCODE-questions/tree/master/0307-range-sum-query-mutable) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
@@ -233,9 +234,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/sawarn24/LEETCODE-questions/tree/master/0307-range-sum-query-mutable) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sawarn24/LEETCODE-questions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sawarn24/LEETCODE-questions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
