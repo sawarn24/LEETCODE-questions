@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2383-add-two-integers](https://github.com/sawarn24/LEETCODE-questions/tree/master/2383-add-two-integers) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/sawarn24/LEETCODE-questions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
