@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sawarn24/LEETCODE-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0274-h-index) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 ## Matrix
