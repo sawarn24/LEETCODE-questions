@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/sawarn24/LEETCODE-questions/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2350-find-closest-number-to-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
