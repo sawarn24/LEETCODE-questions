@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
+| [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sawarn24/LEETCODE-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
