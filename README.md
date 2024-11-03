@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/sawarn24/LEETCODE-questions/tree/master/1806-count-of-matches-in-tournament) |
