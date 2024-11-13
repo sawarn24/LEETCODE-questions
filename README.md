@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sawarn24/LEETCODE-questions/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/sawarn24/LEETCODE-questions/tree/master/1829-maximum-units-on-a-truck) |
+| [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -349,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sawarn24/LEETCODE-questions/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
