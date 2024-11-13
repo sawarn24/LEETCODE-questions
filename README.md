@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
+| [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/sawarn24/LEETCODE-questions/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0932-monotonic-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
