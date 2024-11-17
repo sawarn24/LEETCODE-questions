@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
+| [0782-jewels-and-stones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sawarn24/LEETCODE-questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/0551-student-attendance-record-i) |
+| [0782-jewels-and-stones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
