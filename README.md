@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0792-binary-search](https://github.com/sawarn24/LEETCODE-questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sawarn24/LEETCODE-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/sawarn24/LEETCODE-questions/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
