@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
+| [1260-day-of-the-year](https://github.com/sawarn24/LEETCODE-questions/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
 | [1362-airplane-seat-assignment-probability](https://github.com/sawarn24/LEETCODE-questions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/sawarn24/LEETCODE-questions/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0782-jewels-and-stones) |
 | [0886-score-of-parentheses](https://github.com/sawarn24/LEETCODE-questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1260-day-of-the-year](https://github.com/sawarn24/LEETCODE-questions/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
