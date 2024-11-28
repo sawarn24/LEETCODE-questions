@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/sawarn24/LEETCODE-questions/tree/master/1260-day-of-the-year) |
 | [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0932-monotonic-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
