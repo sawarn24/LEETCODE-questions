@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0792-binary-search](https://github.com/sawarn24/LEETCODE-questions/tree/master/0792-binary-search) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/sawarn24/LEETCODE-questions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sawarn24/LEETCODE-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
