@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/sawarn24/LEETCODE-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3676-smallest-number-with-all-set-bits) |
