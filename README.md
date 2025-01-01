@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/sawarn24/LEETCODE-questions/tree/master/0461-hamming-distance) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3676-smallest-number-with-all-set-bits) |
