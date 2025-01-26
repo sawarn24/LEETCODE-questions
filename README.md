@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2756-buy-two-chocolates](https://github.com/sawarn24/LEETCODE-questions/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sawarn24/LEETCODE-questions/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
 ## Probability and Statistics
 |  |
 | ------- |
