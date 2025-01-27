@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sawarn24/LEETCODE-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/sawarn24/LEETCODE-questions/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sawarn24/LEETCODE-questions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/sawarn24/LEETCODE-questions/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/0231-power-of-two) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/sawarn24/LEETCODE-questions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
