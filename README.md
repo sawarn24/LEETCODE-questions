@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sawarn24/LEETCODE-questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
