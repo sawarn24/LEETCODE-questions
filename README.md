@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2159-two-out-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/2159-two-out-of-three) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/sawarn24/LEETCODE-questions/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sawarn24/LEETCODE-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2232-adding-spaces-to-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Simulation
