@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
+| [1364-tuple-with-same-product](https://github.com/sawarn24/LEETCODE-questions/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
+| [1364-tuple-with-same-product](https://github.com/sawarn24/LEETCODE-questions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1364-tuple-with-same-product](https://github.com/sawarn24/LEETCODE-questions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
