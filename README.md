@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawarn24/LEETCODE-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sawarn24/LEETCODE-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sawarn24/LEETCODE-questions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
