@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/sawarn24/LEETCODE-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sawarn24/LEETCODE-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/0070-climbing-stairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/sawarn24/LEETCODE-questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sawarn24/LEETCODE-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
