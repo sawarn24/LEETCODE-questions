@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarn24/LEETCODE-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
