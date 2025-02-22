@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarn24/LEETCODE-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
