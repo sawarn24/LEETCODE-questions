@@ -579,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sawarn24/LEETCODE-questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
