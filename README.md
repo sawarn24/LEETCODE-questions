@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sawarn24/LEETCODE-questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0118-pascals-triangle) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sawarn24/LEETCODE-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sawarn24/LEETCODE-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
