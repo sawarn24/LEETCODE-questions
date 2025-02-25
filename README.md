@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sawarn24/LEETCODE-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sawarn24/LEETCODE-questions/tree/master/0067-add-binary) |
@@ -588,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/sawarn24/LEETCODE-questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
