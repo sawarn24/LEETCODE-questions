@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sawarn24/LEETCODE-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sawarn24/LEETCODE-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sawarn24/LEETCODE-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sawarn24/LEETCODE-questions/tree/master/0043-multiply-strings) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sawarn24/LEETCODE-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 ## Prefix Sum
 |  |
