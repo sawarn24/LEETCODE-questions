@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sawarn24/LEETCODE-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/sawarn24/LEETCODE-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0882-peak-index-in-a-mountain-array) |
