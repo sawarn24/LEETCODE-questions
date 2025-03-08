@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2232-adding-spaces-to-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sawarn24/LEETCODE-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sawarn24/LEETCODE-questions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawarn24/LEETCODE-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sawarn24/LEETCODE-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
