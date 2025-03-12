@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Simulation
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
 | [1646-kth-missing-positive-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
