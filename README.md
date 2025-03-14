@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sawarn24/LEETCODE-questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/sawarn24/LEETCODE-questions/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sawarn24/LEETCODE-questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/sawarn24/LEETCODE-questions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/sawarn24/LEETCODE-questions/tree/master/1827-invalid-tweets) |
