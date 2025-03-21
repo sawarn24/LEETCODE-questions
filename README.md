@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/sawarn24/LEETCODE-questions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0507-perfect-number) |
+| [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0728-self-dividing-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sawarn24/LEETCODE-questions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
+| [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
