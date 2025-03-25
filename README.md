@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0932-monotonic-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sawarn24/LEETCODE-questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
+| [1019-squares-of-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sawarn24/LEETCODE-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/1798-max-number-of-k-sum-pairs) |
