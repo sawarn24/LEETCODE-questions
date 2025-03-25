@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sawarn24/LEETCODE-questions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0680-valid-palindrome-ii) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0886-score-of-parentheses](https://github.com/sawarn24/LEETCODE-questions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sawarn24/LEETCODE-questions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sawarn24/LEETCODE-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
