@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0697-degree-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/sawarn24/LEETCODE-questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sawarn24/LEETCODE-questions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
