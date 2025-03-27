@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/1585-the-kth-factor-of-n) |
 | [1806-count-of-matches-in-tournament](https://github.com/sawarn24/LEETCODE-questions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/sawarn24/LEETCODE-questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/sawarn24/LEETCODE-questions/tree/master/2491-smallest-even-multiple) |
