@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/sawarn24/LEETCODE-questions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sawarn24/LEETCODE-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/sawarn24/LEETCODE-questions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/sawarn24/LEETCODE-questions/tree/master/2752-sum-multiples) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sawarn24/LEETCODE-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sawarn24/LEETCODE-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sawarn24/LEETCODE-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sawarn24/LEETCODE-questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/sawarn24/LEETCODE-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 ## Binary Search
 |  |
