@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/sawarn24/LEETCODE-questions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/sawarn24/LEETCODE-questions/tree/master/2752-sum-multiples) |
+| [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/sawarn24/LEETCODE-questions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3371-harshad-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sawarn24/LEETCODE-questions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sawarn24/LEETCODE-questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2756-buy-two-chocolates](https://github.com/sawarn24/LEETCODE-questions/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
+| [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 ## Matrix
 |  |
