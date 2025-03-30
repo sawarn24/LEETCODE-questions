@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sawarn24/LEETCODE-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/sawarn24/LEETCODE-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sawarn24/LEETCODE-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sawarn24/LEETCODE-questions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2232-adding-spaces-to-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/sawarn24/LEETCODE-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sawarn24/LEETCODE-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sawarn24/LEETCODE-questions/tree/master/2580-circular-sentence) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sawarn24/LEETCODE-questions/tree/master/0461-hamming-distance) |
 | [2159-two-out-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/sawarn24/LEETCODE-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/sawarn24/LEETCODE-questions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sawarn24/LEETCODE-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/sawarn24/LEETCODE-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sawarn24/LEETCODE-questions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/sawarn24/LEETCODE-questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
