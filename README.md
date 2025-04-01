@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sawarn24/LEETCODE-questions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sawarn24/LEETCODE-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0112-path-sum) |
+| [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Database
 |  |
