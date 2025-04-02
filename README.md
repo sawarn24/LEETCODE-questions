@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/sawarn24/LEETCODE-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2350-find-closest-number-to-zero) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/sawarn24/LEETCODE-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sawarn24/LEETCODE-questions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sawarn24/LEETCODE-questions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/sawarn24/LEETCODE-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sawarn24/LEETCODE-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/sawarn24/LEETCODE-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/sawarn24/LEETCODE-questions/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sawarn24/LEETCODE-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/sawarn24/LEETCODE-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sawarn24/LEETCODE-questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/sawarn24/LEETCODE-questions/tree/master/2721-sum-of-distances) |
 ## Probability and Statistics
