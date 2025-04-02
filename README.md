@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sawarn24/LEETCODE-questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sawarn24/LEETCODE-questions/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/sawarn24/LEETCODE-questions/tree/master/0504-base-7) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sawarn24/LEETCODE-questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/sawarn24/LEETCODE-questions/tree/master/0461-hamming-distance) |
 | [2159-two-out-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/2159-two-out-of-three) |
