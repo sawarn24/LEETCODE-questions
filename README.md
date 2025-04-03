@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/sawarn24/LEETCODE-questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1448-maximum-69-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/sawarn24/LEETCODE-questions/tree/master/1585-the-kth-factor-of-n) |
 | [1806-count-of-matches-in-tournament](https://github.com/sawarn24/LEETCODE-questions/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sawarn24/LEETCODE-questions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/sawarn24/LEETCODE-questions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/sawarn24/LEETCODE-questions/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/sawarn24/LEETCODE-questions/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sawarn24/LEETCODE-questions/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/sawarn24/LEETCODE-questions/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/sawarn24/LEETCODE-questions/tree/master/1582-design-browser-history) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
 ## Counting Sort
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/sawarn24/LEETCODE-questions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/sawarn24/LEETCODE-questions/tree/master/1582-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sawarn24/LEETCODE-questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sawarn24/LEETCODE-questions/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/sawarn24/LEETCODE-questions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sawarn24/LEETCODE-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/sawarn24/LEETCODE-questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
