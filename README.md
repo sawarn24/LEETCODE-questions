@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sawarn24/LEETCODE-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/sawarn24/LEETCODE-questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2159-two-out-of-three](https://github.com/sawarn24/LEETCODE-questions/tree/master/2159-two-out-of-three) |
 | [2169-simple-bank-system](https://github.com/sawarn24/LEETCODE-questions/tree/master/2169-simple-bank-system) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/sawarn24/LEETCODE-questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/sawarn24/LEETCODE-questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2756-buy-two-chocolates](https://github.com/sawarn24/LEETCODE-questions/tree/master/2756-buy-two-chocolates) |
 ## Stack
 |  |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/sawarn24/LEETCODE-questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 ## Sliding Window
 |  |
