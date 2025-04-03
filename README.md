@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sawarn24/LEETCODE-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
