@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sawarn24/LEETCODE-questions/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/sawarn24/LEETCODE-questions/tree/master/0797-rabbits-in-forest) |
+| [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/sawarn24/LEETCODE-questions/tree/master/1033-broken-calculator) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 | [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
+| [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sawarn24/LEETCODE-questions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
+| [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0932-monotonic-array) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
 ## String Matching
 |  |
