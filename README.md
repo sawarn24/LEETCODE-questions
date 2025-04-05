@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/sawarn24/LEETCODE-questions/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/1765-merge-in-between-linked-lists) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sawarn24/LEETCODE-questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
