@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/sawarn24/LEETCODE-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sawarn24/LEETCODE-questions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sawarn24/LEETCODE-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sawarn24/LEETCODE-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3447-clear-digits) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/sawarn24/LEETCODE-questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
