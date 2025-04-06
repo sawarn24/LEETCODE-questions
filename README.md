@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sawarn24/LEETCODE-questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarn24/LEETCODE-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/sawarn24/LEETCODE-questions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/sawarn24/LEETCODE-questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sawarn24/LEETCODE-questions/tree/master/0162-find-peak-element) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarn24/LEETCODE-questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sawarn24/LEETCODE-questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
