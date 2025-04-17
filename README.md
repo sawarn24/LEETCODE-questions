@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sawarn24/LEETCODE-questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/sawarn24/LEETCODE-questions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/sawarn24/LEETCODE-questions/tree/master/2752-sum-multiples) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2507-number-of-common-factors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sawarn24/LEETCODE-questions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/sawarn24/LEETCODE-questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/sawarn24/LEETCODE-questions/tree/master/2722-prime-in-diagonal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
