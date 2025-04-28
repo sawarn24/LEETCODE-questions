@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/sawarn24/LEETCODE-questions/tree/master/0517-super-washing-machines) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [0575-distribute-candies](https://github.com/sawarn24/LEETCODE-questions/tree/master/0575-distribute-candies) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sawarn24/LEETCODE-questions/tree/master/0409-longest-palindrome) |
+| [0517-super-washing-machines](https://github.com/sawarn24/LEETCODE-questions/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/sawarn24/LEETCODE-questions/tree/master/0797-rabbits-in-forest) |
