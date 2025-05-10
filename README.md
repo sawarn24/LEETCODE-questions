@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sawarn24/LEETCODE-questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/sawarn24/LEETCODE-questions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sawarn24/LEETCODE-questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3221-find-the-peaks](https://github.com/sawarn24/LEETCODE-questions/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/3226-minimum-number-game) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sawarn24/LEETCODE-questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sawarn24/LEETCODE-questions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/sawarn24/LEETCODE-questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2756-buy-two-chocolates](https://github.com/sawarn24/LEETCODE-questions/tree/master/2756-buy-two-chocolates) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sawarn24/LEETCODE-questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Stack
 |  |
 | ------- |
