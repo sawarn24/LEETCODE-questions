@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/sawarn24/LEETCODE-questions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/sawarn24/LEETCODE-questions/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sawarn24/LEETCODE-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/sawarn24/LEETCODE-questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1448-maximum-69-number) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sawarn24/LEETCODE-questions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/sawarn24/LEETCODE-questions/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/sawarn24/LEETCODE-questions/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sawarn24/LEETCODE-questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
