@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sawarn24/LEETCODE-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sawarn24/LEETCODE-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/sawarn24/LEETCODE-questions/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/sawarn24/LEETCODE-questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sawarn24/LEETCODE-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Database
 |  |
@@ -877,4 +879,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/sawarn24/LEETCODE-questions/tree/master/1582-design-browser-history) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sawarn24/LEETCODE-questions/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sawarn24/LEETCODE-questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
