@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 | [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/sawarn24/LEETCODE-questions/tree/master/0917-boats-to-save-people) |
 | [0924-fair-candy-swap](https://github.com/sawarn24/LEETCODE-questions/tree/master/0924-fair-candy-swap) |
+| [0931-minimum-falling-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0931-minimum-falling-path-sum) |
 | [0932-monotonic-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/0898-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sawarn24/LEETCODE-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sawarn24/LEETCODE-questions/tree/master/1791-richest-customer-wealth) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/sawarn24/LEETCODE-questions/tree/master/2631-sort-the-students-by-their-kth-score) |
