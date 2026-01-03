@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sawarn24/LEETCODE-questions/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/sawarn24/LEETCODE-questions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/sawarn24/LEETCODE-questions/tree/master/0553-optimal-division) |
 | [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0931-minimum-falling-path-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sawarn24/LEETCODE-questions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/sawarn24/LEETCODE-questions/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/sawarn24/LEETCODE-questions/tree/master/0517-super-washing-machines) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sawarn24/LEETCODE-questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sawarn24/LEETCODE-questions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/sawarn24/LEETCODE-questions/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
