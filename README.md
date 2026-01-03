@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/0909-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/sawarn24/LEETCODE-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sawarn24/LEETCODE-questions/tree/master/1013-fibonacci-number) |
+| [1049-last-stone-weight-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/sawarn24/LEETCODE-questions/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/sawarn24/LEETCODE-questions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sawarn24/LEETCODE-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sawarn24/LEETCODE-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/sawarn24/LEETCODE-questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/sawarn24/LEETCODE-questions/tree/master/1049-last-stone-weight-ii) |
 | [1063-best-sightseeing-pair](https://github.com/sawarn24/LEETCODE-questions/tree/master/1063-best-sightseeing-pair) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sawarn24/LEETCODE-questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1284-four-divisors](https://github.com/sawarn24/LEETCODE-questions/tree/master/1284-four-divisors) |
